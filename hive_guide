@@ -25,11 +25,12 @@ Hive Installation Guidelines
 5. Create a temporary folder named 'tmp' into C:\hive (e.g, C:\hive\tmp) and provide all rights by setting the properties of folder
 
 6. Set Up Environmental Variables:
-	- `DERBY_HOME` : `C:\derby`
-	- `HIVE_HOME` : `C:\hive`
-	- `HIVE_BIN` : `C:\hive\bin`
-	- `HIVE_LIB` : `C:\hive\lib`
-	- `HADOOP_USER_CLASSPATH_FIRST`: `true`
+	-  DERBY_HOME : C:\derby
+        -  HADOOP_HOME : C:\hadoop
+	-  HIVE_HOME : C:\hive
+	-  HIVE_BIN : C:\hive\bin
+	-  HIVE_LIB : C:\hive\lib
+	-  HADOOP_USER_CLASSPATH_FIRST: true
 
 7. Download and Configure Wget:
 	a) Download wget zip files from https://eternallybored.org/misc/wget/ 
