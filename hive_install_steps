@@ -77,7 +77,14 @@ hive-site-xml changeable code
         <value>C:/hadoop</value>
     </property>
 
-</configuration>
+</configuration>  
+
+=============================================================================================================
+
+ Hive Commands to create, alter, and drop databases, tables, views, functions, and indexes :
+
+
+https://sonu-tyagi.medium.com/hive-commands-complete-beginners-guide-6ff38e519bc1
 
 
 ====================================================================================================
